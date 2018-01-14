@@ -1,0 +1,52 @@
+/* ========== Generales =========
+  Colores basicos:
+    - #F7B617 (Amarillo)
+    - Black
+*/
+
+
+/* Estilos generales de proyecto */
+
+p {
+  line-height: 2rem;
+}
+
+
+
+nav>div>a{
+  color: black;
+}
+
+#section-amarilla{
+  background-color: #F7B617;
+}
+
+
+
+/* ======= Media queries  ========*/
+@media only screen and (max-width : 992px) {
+  .section {
+    position: absolute;
+    top: 40%;
+  }
+  .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
