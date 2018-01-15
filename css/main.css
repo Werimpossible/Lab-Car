@@ -7,15 +7,15 @@
 
 /* Estilos generales de proyecto */
 
+nav>div>a{
+  color: black;
+}
+
 p {
   line-height: 2rem;
 }
 
 
-
-nav>div>a{
-  color: black;
-}
 
 #section-amarilla{
   background-color: #F7B617;
