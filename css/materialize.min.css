@@ -2129,7 +2129,8 @@
 }
 
 .white-text {
-    color: #fff !important
+	color: #fff !important;
+	font-size: x-large;
 }
 
 .transparent {
@@ -2193,7 +2194,8 @@ a {
 
 a:active,
 a:hover {
-    outline: 0
+	outline: 0;
+	font-size: medium;
 }
 
 abbr[title] {
@@ -5070,8 +5072,9 @@ small {
 .btn-floating[disabled]:hover,
 .btn-large[disabled]:hover,
 .btn-flat[disabled]:hover {
-    background-color: #DFDFDF !important;
-    color: #9F9F9F !important
+	background-color: #DFDFDF !important;
+	color: #9F9F9F !important;
+	font-size: medium;
 }
 
 .btn,
